@@ -1,0 +1,15 @@
+/_build/
+/deps/
+/doc/
+/cover/
+/erl_crash.dump
+/.elixir_ls/
+/.lexical/
+/example/_build/
+/example/deps/
+/example/node_modules/
+/example/test-results/
+/example/playwright-report/
+/*.tar
+/spec.md
+.DS_Store
